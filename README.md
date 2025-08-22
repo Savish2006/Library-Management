@@ -34,6 +34,5 @@ ACTIVITY DIAGRAM
 ![Screenshot 2025-05-16 212008](https://github.com/user-attachments/assets/fbec8992-44e1-4005-b7dd-7ac2c4d509a6)
 COMMUNICATION DIAGRAM
 ![Screenshot 2025-05-16 212037](https://github.com/user-attachments/assets/62c7e7d9-5fa2-475c-8be6-c7732f41ad66)
-
 ### RESULT:
 Thus the Library management system project was executed and the output was verified.
